@@ -1,0 +1,76 @@
+{
+    "RECORDS": [
+        {
+            "id": "2",
+            "comment": "hi soso",
+            "user_id": "9",
+            "post_id": "0"
+        },
+        {
+            "id": "3",
+            "comment": "Can I ask you a question ?",
+            "user_id": "9",
+            "post_id": "0"
+        },
+        {
+            "id": "4",
+            "comment": "jj",
+            "user_id": "0",
+            "post_id": "0"
+        },
+        {
+            "id": "5",
+            "comment": "noor",
+            "user_id": "9",
+            "post_id": "0"
+        },
+        {
+            "id": "6",
+            "comment": "nm",
+            "user_id": "0",
+            "post_id": "0"
+        },
+        {
+            "id": "7",
+            "comment": "rere",
+            "user_id": "9",
+            "post_id": "20"
+        },
+        {
+            "id": "8",
+            "comment": "gerg",
+            "user_id": "9",
+            "post_id": "0"
+        },
+        {
+            "id": "9",
+            "comment": "mk",
+            "user_id": "9",
+            "post_id": "0"
+        },
+        {
+            "id": "10",
+            "comment": "EtQ Assignment",
+            "user_id": "0",
+            "post_id": "3"
+        },
+        {
+            "id": "17",
+            "comment": "lk",
+            "user_id": "9",
+            "post_id": "0"
+        },
+        {
+            "id": "18",
+            "comment": "dy",
+            "user_id": "9",
+            "post_id": "0"
+        },
+        {
+            "id": "19",
+            "comment": "xcxc",
+            "user_id": "9",
+            "post_id": "0"
+        }
+    ]
+}

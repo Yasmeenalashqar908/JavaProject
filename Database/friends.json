@@ -1,0 +1,124 @@
+{
+    "RECORDS": [
+        {
+            "id": "102",
+            "post_id": "1",
+            "like_total": "1",
+            "user_id": "9"
+        },
+        {
+            "id": "103",
+            "post_id": "2",
+            "like_total": "2",
+            "user_id": "9"
+        },
+        {
+            "id": "104",
+            "post_id": "1",
+            "like_total": "1",
+            "user_id": "12"
+        },
+        {
+            "id": "105",
+            "post_id": "2",
+            "like_total": "2",
+            "user_id": "12"
+        },
+        {
+            "id": "106",
+            "post_id": "3",
+            "like_total": "3",
+            "user_id": "12"
+        },
+        {
+            "id": "107",
+            "post_id": "4",
+            "like_total": "4",
+            "user_id": "12"
+        },
+        {
+            "id": "108",
+            "post_id": "1",
+            "like_total": "1",
+            "user_id": "9"
+        },
+        {
+            "id": "109",
+            "post_id": "1",
+            "like_total": "1",
+            "user_id": "0"
+        },
+        {
+            "id": "110",
+            "post_id": "2",
+            "like_total": "2",
+            "user_id": "0"
+        },
+        {
+            "id": "111",
+            "post_id": "3",
+            "like_total": "3",
+            "user_id": "0"
+        },
+        {
+            "id": "112",
+            "post_id": "1",
+            "like_total": "1",
+            "user_id": "0"
+        },
+        {
+            "id": "113",
+            "post_id": "2",
+            "like_total": "2",
+            "user_id": "0"
+        },
+        {
+            "id": "114",
+            "post_id": "3",
+            "like_total": "3",
+            "user_id": "0"
+        },
+        {
+            "id": "115",
+            "post_id": "4",
+            "like_total": "4",
+            "user_id": "0"
+        },
+        {
+            "id": "116",
+            "post_id": "1",
+            "like_total": "1",
+            "user_id": "0"
+        },
+        {
+            "id": "117",
+            "post_id": "2",
+            "like_total": "2",
+            "user_id": "0"
+        },
+        {
+            "id": "118",
+            "post_id": "3",
+            "like_total": "3",
+            "user_id": "0"
+        },
+        {
+            "id": "119",
+            "post_id": "4",
+            "like_total": "4",
+            "user_id": "0"
+        },
+        {
+            "id": "120",
+            "post_id": "1",
+            "like_total": "1",
+            "user_id": "7"
+        },
+        {
+            "id": "121",
+            "post_id": "2",
+            "like_total": "2",
+            "user_id": "7"
+        }
+    ]
+}
